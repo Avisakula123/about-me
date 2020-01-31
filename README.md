@@ -1,7 +1,7 @@
 # about-me
 ## Repository Links
-* [Repository](https://github.com/Avisakula123/about-me)
-* [page](https://avisakula123.github.io/about-me)
+* [Source Repository](https://github.com/Avisakula123/about-me)
+* [Hosted page](https://avisakula123.github.io/about-me)
 ## About
 This repo had content about me and the contents that i had learnt in previous classes.
 
@@ -32,7 +32,9 @@ We need some languages like
 * MS-ACS
 
 
-  ![](https://lh3.googleusercontent.com/proxy/yZP1WeAPSa8qLUTz4EaqoO9Db_9ma7K-0FibBvk4MCYX1QEkVtaa6WkGc0Jslh6NIQMWv_dXM0iEQJJlwaBuKVWDttcymDk-kCrFsrYe2mzPLKRbx8XS77Ax-5-_H6duefWsQ3DV8h7P473bsexQyW_6UibDcgWp8Zz4pi4mcZrw=w357-h238-k-no)
+  ![](https://english.mathrubhumi.com/polopoly_fs/1.3861169.1560173018!/image/image.jpg_gen/derivatives/landscape_894_577/image.jpg)
+  
+  [Image Source](https://english.mathrubhumi.com/travel/travel-news/tourist-arrivals-in-kerala-up-6-82-per-cent-in-jan-mar-2019-1.3861157)
 
 
 
