@@ -78,4 +78,9 @@
     background-color: #f2f2f2;
     padding: 10px;
   }
+  .profileImgContainer {
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+}
   
