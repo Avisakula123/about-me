@@ -67,7 +67,7 @@
   }
   
   /* When moving the mouse over the submit button, add a darker green color */
-  input[type=submit]:hover {
+  button[type=convert]:hover {
     background-color: #45a049;
   }
   
